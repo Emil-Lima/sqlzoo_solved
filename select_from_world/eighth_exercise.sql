@@ -1,5 +1,5 @@
 /*
-Exclusive OR (XOR). Show the countries that are big by area (more than 3 million) or big by 
+8. Exclusive OR (XOR). Show the countries that are big by area (more than 3 million) or big by 
 population (more than 250 million) but not both. Show name, population and area.
 
 Australia has a big area but a small population, it should be included.
