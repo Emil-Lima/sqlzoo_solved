@@ -5,4 +5,4 @@
 SELECT id, name FROM stops
 JOIN route
 ON route.stop = stops.id
-WHERE route.num = 4 AND route.company = 'LRT';
+WHERE route.num = '4';
